@@ -2,15 +2,17 @@
  * OpenJBC.c
  *
  * Created: 21/12/2017 15:19:24
- * Author : Alex
+ * Author : xX_WhatsTheGeek_Xx
  */ 
 
 #include <avr/io.h>
 
+#define FIRMWARE_VERSION	1.0
+
 
 int main(void)
 {
-    /* Replace with your application code */
+	// TODO: Add code (no shit sherlock...)
     while (1) 
     {
     }
